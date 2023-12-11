@@ -1,0 +1,1 @@
+export { TeenyiconsArrowUpOutline } from "./TeenyiconsArrowUpOutline";
